@@ -1,0 +1,20 @@
+.logo {
+    background-color: white;
+    height: 230px;
+    background: url("Images/jakes-logo.png") no-repeat center;
+}
+.nav {
+    align-items: center;
+    justify-content: center;
+}
+.left {
+    align-items: center;
+    justify-content: center;
+}
+.center {
+    align-items: center;
+    justify-content: center;
+}
+/* Column styles */
+
+/* Footer Styles */
